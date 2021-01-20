@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Algorithims for Job Interviews.
 - 👯 I’m looking to collaborate on Remote work, with React Js, Node Js and Python.
  
- 
-  
 - ⚡ Fun fact:  Playing in many different music venues in Austin, been playing bass for about 20 years.
 -->
